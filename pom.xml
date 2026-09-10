@@ -9,7 +9,6 @@
         <version>3.5.12</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-
     <groupId>ru.yandex.practicum</groupId>
     <artifactId>filmorate</artifactId>
     <version>0.0.1-SNAPSHOT</version>
